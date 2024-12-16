@@ -163,3 +163,5 @@ cython_debug/
 
 *.pdf
 data/
+merged_output.*
+*hgt.zip
